@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-53c45e40","path":"/book/faqs/graceful-shutdown.html","title":"Graceful shutdown","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1666965058000,"contributors":[{"name":"Chrislearn Young","email":"chris@acroidea.com","commits":1}]},"filePathRelative":"book/faqs/graceful-shutdown.md"}');export{e as data};

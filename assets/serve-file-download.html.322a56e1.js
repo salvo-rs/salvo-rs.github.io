@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4ae08003","path":"/book/faqs/serve-file-download.html","title":"How to serve file download","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1666965058000,"contributors":[{"name":"Chrislearn Young","email":"chris@acroidea.com","commits":1}]},"filePathRelative":"book/faqs/serve-file-download.md"}');export{e as data};

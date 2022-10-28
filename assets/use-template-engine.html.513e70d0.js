@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0371477a","path":"/zh-hans/book/topics/use-template-engine.html","title":"使用模板引擎","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1666965058000,"contributors":[{"name":"Chrislearn Young","email":"chris@acroidea.com","commits":1}]},"filePathRelative":"zh-hans/book/topics/use-template-engine.md"}');export{e as data};

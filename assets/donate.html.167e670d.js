@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0100cb31","path":"/donate.html","title":"Donate Project","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1666965058000,"contributors":[{"name":"Chrislearn Young","email":"chris@acroidea.com","commits":1}]},"filePathRelative":"donate.md"}');export{e as data};

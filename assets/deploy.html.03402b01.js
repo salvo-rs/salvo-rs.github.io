@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4045529b","path":"/zh-hans/book/faqs/deploy.html","title":"如何部署应用","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1666965058000,"contributors":[{"name":"Chrislearn Young","email":"chris@acroidea.com","commits":1}]},"filePathRelative":"zh-hans/book/faqs/deploy.md"}');export{e as data};

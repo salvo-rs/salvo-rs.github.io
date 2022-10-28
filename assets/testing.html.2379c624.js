@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-69ccdb86","path":"/zh-hant/book/core/testing.html","title":"Testing","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1666965058000,"contributors":[{"name":"Chrislearn Young","email":"chris@acroidea.com","commits":1}]},"filePathRelative":"zh-hant/book/core/testing.md"}');export{t as data};

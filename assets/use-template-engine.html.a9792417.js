@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-09991968","path":"/book/topics/use-template-engine.html","title":"Use Template Engine","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1666965058000,"contributors":[{"name":"Chrislearn Young","email":"chris@acroidea.com","commits":1}]},"filePathRelative":"book/topics/use-template-engine.md"}');export{e as data};

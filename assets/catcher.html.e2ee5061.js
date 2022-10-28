@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-39794874","path":"/zh-hans/book/core/catcher.html","title":"Catcher","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1666965058000,"contributors":[{"name":"Chrislearn Young","email":"chris@acroidea.com","commits":1}]},"filePathRelative":"zh-hans/book/core/catcher.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-31912fab","path":"/book/middlewares/force-https.html","title":"Force HTTPS","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1666965058000,"contributors":[{"name":"Chrislearn Young","email":"chris@acroidea.com","commits":1}]},"filePathRelative":"book/middlewares/force-https.md"}');export{e as data};

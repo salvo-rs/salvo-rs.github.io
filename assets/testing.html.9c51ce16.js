@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-93aca468","path":"/book/core/testing.html","title":"Testing","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1666965058000,"contributors":[{"name":"Chrislearn Young","email":"chris@acroidea.com","commits":1}]},"filePathRelative":"book/core/testing.md"}');export{e as data};

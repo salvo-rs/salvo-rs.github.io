@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-9bcbad1e","path":"/zh-hant/book/faqs/graceful-shutdown.html","title":"如何優雅地停機","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1666965058000,"contributors":[{"name":"Chrislearn Young","email":"chris@acroidea.com","commits":1}]},"filePathRelative":"zh-hant/book/faqs/graceful-shutdown.md"}');export{a as data};
